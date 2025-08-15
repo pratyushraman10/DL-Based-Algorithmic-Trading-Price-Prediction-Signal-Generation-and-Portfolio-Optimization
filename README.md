@@ -1,4 +1,4 @@
-Deep Learning-Based Algorithmic Trading: Price Prediction, Signal Generation, and Portfolio Optimization
+# Deep Learning-Based Algorithmic Trading: Price Prediction, Signal Generation, and Portfolio Optimization
 
 Overview
 --------
